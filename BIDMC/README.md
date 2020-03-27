@@ -21,14 +21,14 @@ Please see Wednesday's entry (below) for context.
 <a name="done"></a>
 ### What we have done and not done
 
-In total we have tested <a href="../Results/np_swab_results.xlsx">over 100 materials and geometries</a>, contributed by over a dozen groups and individuals.
+In total we have tested <a href="../np_swab_results.xlsx">over 100 materials and geometries</a>, contributed by over a dozen groups and individuals.
 
-Prototypes mentioned below pass all three of our initial evaluations: <a href="">design evaluation</a>, <a href="">collection sufficiency</a>, and <a href="">PCR compatibility</a>. **This testing does not constitute a clinical trial.** 
+Prototypes mentioned below pass all three of our initial evaluations: <a href="../BIDMC/Methodology.pdf">design evaluation</a>, <a href="../BIDMC/Methodology.pdf">collection sufficiency</a>, and <a href="../BIDMC/Methodology.pdf">PCR compatibility</a>. **This testing does not constitute a clinical trial.**
 
 <a name="trial"></a>
 ### Clinical trial
 
-**None of the prototypes we have received been field tested** yet at BIDMC. An IRB/trial are in preparation (ceding to USF's WIRB). It is not currently our plan at BIDMC to recommend any swab without such trial. 
+**None of the prototypes we have received been field tested** yet at BIDMC. An IRB/trial are in preparation (ceding to USF's WIRB). It is not currently our plan at BIDMC to recommend any swab without such trial.
 
 The below does **not** include evaluation of prototypes received after Thursday afternoon; we are working on those now.
 
@@ -60,7 +60,7 @@ We will continue to evaluate new swabs **received before 5 p.m. ET on Monday, Ma
 <a name="guidance"></a>
 ### Guidance to other institutions
 
-**If you can wait** for results of field-testing trials for the above, which gate large-scale production, we recommend you do so. 
+**If you can wait** for results of field-testing trials for the above, which gate large-scale production, we recommend you do so.
 
 **If you cannot wait** and have in-house 3D printing capacity, we recommend you [read the University of South Florida's results](/USF), since they have field-tested in-house printed solutions (I believe from FormLabs).
 
@@ -170,7 +170,7 @@ Archetypal (Abiogenix design (?), HP print)
 <a name="stlfiles"></a>
 ### STL files
 
-We do not have all stl files for all designs tested; what we have are [here](../design_files/). If you need one we don't have, please contact its [creator](np_swab_results.xlsx)). If you have an stl file to share, please email it to ccallah@bidmc.harvard.edu with *STL-FILE_\<identifier>_\<company>* in the subject field.
+We do not have all stl files for all designs tested; what we have are [here](../design_files/"). If you need one we don't have, please contact its [creator]("np_swab_results.xlsx"). If you have an stl file to share, please email it to ccallah@bidmc.harvard.edu with *STL-FILE_\<identifier>_\<company>* in the subject field.
 
 
 

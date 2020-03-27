@@ -23,7 +23,7 @@ Please see Wednesday's entry (below) for context.
 
 In total we have tested <a href="../Results/np_swab_results.xlsx">over 100 materials and geometries</a>, contributed by over a dozen groups and individuals.
 
-Prototypes mentioned below pass all three of our initial evaluations: design evaluation, collection sufficiency, and PCR compatibility. **This testing does not constitute a clinical trial.** 
+Prototypes mentioned below pass all three of our initial evaluations: <a href="">design evaluation</a>, <a href="">collection sufficiency</a>, and <a href="">PCR compatibility</a>. **This testing does not constitute a clinical trial.** 
 
 <a name="trial"></a>
 ### Clinical trial

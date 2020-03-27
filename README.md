@@ -6,15 +6,13 @@ Large-scale virological testing for SARS-CoV-2, causative agent of COVID-19, has
 
 The purpose is to **update medical professionals and manufacturers**. 
 
-**Several groups have been testing** various <a href="">materials and geometries</a>. Their reports:
+**Several groups have been testing** various materials and geometries using various protocols. Details:
 
 [Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [Stanford University](Stanford/) | United States Army | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/)
 
-Progress on this project has suggested it is more useful to move the background that used to be on this page to [here](Background/). Please **bear with us through these changes.**
-
 **All readers** are reminded that swabs are an FDA Class 1 exempt medical device not suitable for "garage testing." ENT, ER, and ID personnel do not need more work removing foreign bodies from/repairing damage to/treating infections in nasal cavities.
 
-At this point **we discourage randomly printing/testing STL files**; instead please see the latest from testing sites above.
+At this point **we discourage randomly printing/testing STL files**; instead please see results from testing sites above.
 
 The content here is **not medical advice.**
 

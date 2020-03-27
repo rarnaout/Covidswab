@@ -67,7 +67,7 @@ We will continue to evaluate new swabs **received before 5 p.m. ET on Monday, Ma
 <a name="good"></a>
 ### Notable performers, all-in-one
 
-<img src="../img/Carbon/C_6.jpg" width=50%>
+<img src="../img/HP/HP_WS.jpg" width=50%>
 HP "WS"
 
 <img src="bend_neck_HP_WS.JPG" height=150><img src="bend_tip_HP_WS.JPG" height=150>

@@ -1,2 +1,31 @@
-# Covidswab
-New home of the Covid19-NP-Swab NP-swab manufacturing project
+*Last updated: March 27, 2020 10:00 ET*
+
+# Manufacturing NP swabs
+
+Large-scale virological testing for SARS-CoV-2, causative agent of COVID-19, has resulted in an acute shortage in NP swabs across the United States. Ad hoc groups from academia and industry have formed to address this crisis. **This repository organizes output from these efforts**.
+
+The purpose is to **update medical professionals and manufacturers**. 
+
+**Several groups have been testing** various <a href="">materials and geometries</a>. Their reports:
+
+[Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [Stanford University](Stanford/) | United States Army | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/)
+
+Progress on this project has suggested it is more useful to move the background that used to be on this page to [here](Background/). Please **bear with us through these changes.**
+
+**All readers** are reminded that swabs are an FDA Class 1 exempt medical device not suitable for "garage testing." ENT, ER, and ID personnel do not need more work removing foreign bodies from/repairing damage to/treating infections in nasal cavities.
+
+At this point **we discourage randomly printing/testing STL files**; instead please see the latest from testing sites above.
+
+The content here is **not medical advice.**
+
+Progress has been possible only because of the **extraordinary openness and sharing** of everyone involved, an inspirational and selfless victory over ego and related temptations.
+
+As we move closer to large-scale manufacturing, contracts, etc. participants are asked to **involve their respective communications offices** before using each others' names in any promotional materials.
+
+We are driven by a **single, common goal: stopping this pandemic.**
+
+Anything is this repo is provided **freely and openly** in the spirit of cooperation for the free use for all.
+
+## Contact
+
+BIDMC: Ramy Arnaout, MD, DPhil rarnaout@bidmc.harvard.edu 617-538-5681

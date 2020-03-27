@@ -67,22 +67,19 @@ We will continue to evaluate new swabs **received before 5 p.m. ET on Monday, Ma
 <a name="good"></a>
 ### Notable performers, all-in-one
 
+<img src="../img/Carbon/C_6.jpg" width=50%>
+HP "WS"
+
+<img src="bend_neck_HP_WS.JPG" height=150><img src="bend_tip_HP_WS.JPG" height=150>
+
+The notability here is the material, which has the same stiffness bendability as the previous version but has a smooth finish. It is autoclavable. The shaft is the preferred design. The breakpoint is a bit difficult to break but acceptable. The tip shown is acceptable but not preferred.
+
 <img src="../img/Carbon/C_6.jpg" width=50%><img src="../img/Carbon/C_7.jpg" width=50%>
 Carbon "C-6" (left) and Carbon "C-7"
 
 The empty structure collects sufficient specimen. The central spine of the tip provides sufficient rigidity and flexibility. The longer tip provides similar or greater flexibility than the thin neck. The material is not autoclavable but does tolerate alcohol disinfection.
 
 We reiterate that we consider many <a href="#tip">tip designs</a> as passable.
-
-<!--
-<a name="notable"></a>
-### Notable performers, shaft-glue-flock
-
-<img src="../img/Wyss/W_2_1.jpg">
-Wyss "W_2_1"
-
-This swab best approximated commercially available swabs, but there is concern over manufacturing variability, as can be appreciated by the picture above. In general we prefer all-in-one models for potential for mass production.
--->
 
 
 ### Contact
@@ -103,9 +100,6 @@ This document summarizes BIDMC's evaluation of dozens of [**geometries**](#geome
 - <a href = "#volume">Production volume</a>
 - <a href = "#trials">Clinical trials</a>
 - <a href = "#contact">Contact</a>
-
-
-
 
 <a name="geometries"></a>
 ## Geometries

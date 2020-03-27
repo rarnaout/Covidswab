@@ -6,6 +6,8 @@ Large-scale virological testing for SARS-CoV-2, causative agent of COVID-19, has
 
 The purpose is to **update medical professionals and manufacturers**. 
 
+Note the location of the repo has changed.
+
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 
 [Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [Stanford University](Stanford/) | United States Army | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/)

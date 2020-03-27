@@ -10,7 +10,7 @@ Note the location of the repo has changed.
 
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 
-[Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [Stanford University](Stanford/) | United States Army | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/)
+[University of Southern Florida (USF)](USF/) | [Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army
 
 **All readers** are reminded that swabs are an FDA Class 1 exempt medical device not suitable for "garage testing." ENT, ER, and ID personnel do not need more work removing foreign bodies from/repairing damage to/treating infections in nasal cavities.
 

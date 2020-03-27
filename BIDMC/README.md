@@ -67,10 +67,10 @@ We will continue to evaluate new swabs **received before 5 p.m. ET on Monday, Ma
 <a name="good"></a>
 ### Notable performers, all-in-one
 
-<img src="../img/HP/HP_WS.jpg" width=50%>
+<img src="../img/HP/HP_WS.jpg" width=50%><img src="bend_neck_HP_WS.JPG" width=25%><img src="bend_tip_HP_WS.JPG" width=25%>
 HP "WS"
 
-<img src="bend_neck_HP_WS.JPG" height=150><img src="bend_tip_HP_WS.JPG" height=150>
+
 
 The notability here is the material, which has the same stiffness bendability as the previous version but has a smooth finish. It is autoclavable. The shaft is the preferred design. The breakpoint is a bit difficult to break but acceptable. The tip shown is acceptable but not preferred.
 

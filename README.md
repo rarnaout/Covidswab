@@ -14,7 +14,7 @@ Note the location of the repo has changed.
 
 **All readers** are reminded that swabs are an FDA Class 1 exempt medical device not suitable for "garage testing." ENT, ER, and ID personnel do not need more work removing foreign bodies from/repairing damage to/treating infections in nasal cavities.
 
-At this point **we discourage randomly printing/testing STL files**; instead please see results from testing sites above.
+At this point **we discourage randomly printing/testing STL files**; instead please see results from testing sites above (esp. [USF](/USF), if you have your own printing capacity).
 
 The content here is **not medical advice.**
 

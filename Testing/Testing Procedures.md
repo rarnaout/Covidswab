@@ -1,5 +1,5 @@
 These tests are designed to mitigate harm and ensure patient safety during operation.
-These are suggestions and a work in progress and require further specification... please edit/add/comment, etc.
+These are suggestions and a work in progress and require further specification... please suggest/edit/add/comment, etc...
 
 NOTE:
 

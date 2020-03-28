@@ -21,7 +21,7 @@ Please see Wednesday's entry (below) for context.
 <a name="done"></a>
 ### What we have done and not done
 
-In total we have tested <a href="../np_swab_results.xlsx">over 100 materials and geometries</a>, contributed by over a dozen groups and individuals.
+In total we have tested <a href="np_swab_results.xlsx">over 100 materials and geometries</a>, contributed by over a dozen groups and individuals.
 
 Prototypes mentioned below pass all three of our initial evaluations: <a href="../BIDMC/Methodology.pdf">design evaluation</a>, <a href="../BIDMC/Methodology.pdf">collection sufficiency</a>, and <a href="../BIDMC/Methodology.pdf">PCR compatibility</a>. **This testing does not constitute a clinical trial.**
 

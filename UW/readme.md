@@ -4,4 +4,4 @@ Clinical evaluations were done by Dr. Ellen Lackermann at Pacific Medical Center
 
 Sample collection testing was done by Jenny Hu, stains were done on slides with methylene blue instead of gram stain.
 
-PCR testing done at UW Virology by Keith Jerome's group
+PCR compatibility testing done at UW Virology by Keith Jerome's group (using Covid-19 sample)

@@ -61,7 +61,7 @@ Indoor hospital can have the swabs at room temperature.
    - measure torque-theat profile over the course of multiple turns
    - note maximum torque
 
-8) tip abrastion 
+8) tip abrasion 
    - measure dry weight of swab
    - place distal end of swab (absorbent end) next to simulated tissue (todo: spec pressure and material (e.g. moist chicken?)
    - apply rotation to distal end (hand side) at hand twirling speed (60 RPM?) for 10 seconds

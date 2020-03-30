@@ -28,8 +28,8 @@ Anything is this repo is provided **[freely and openly](Participant_Agreement/)*
 
 
 
-**Disclaimer**
-</br>
+### Disclaimer
+
 
 The information and designs in this repository are being made available for research and informational purposes only.  The products described in this repository may be regulated as medical devices depending on their intended use.  The information and designs are made available without any representations or warranties of any kind, including that the designs do not infringe any third-party rights or are appropriate for use in the manufacturing of medical devices.  Any product feedback offered by any medical professional or employee of a hospital provided through this repository does not constitute medical advice or an endorsement of any particular design. Any use of ​the information or designs in this repository is at the sole risk of the user.​
 

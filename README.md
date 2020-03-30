@@ -24,7 +24,7 @@ As we move closer to large-scale manufacturing, contracts, etc. participants are
 
 We are driven by a **single, common goal: stopping this pandemic.**
 
-Anything is this repo is provided **[freely and openly](../Particpant_Agreement/BILH_Participant_Agreement_Revised.pdf)** in the spirit of cooperation for the free use for all.
+Anything is this repo is provided **[freely and openly](../Covidswab/Particpant_Agreement/BILH_Participant_Agreement_Revised.pdf)** in the spirit of cooperation for the free use for all.
 
 **Disclaimer**
 </br>

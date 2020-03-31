@@ -67,14 +67,14 @@ We will continue to evaluate new swabs **received before 5 p.m. ET on Monday, Ma
 <a name="good"></a>
 ### Notable performers, all-in-one
 
-<img src="../img/HP/HP_WS.jpg" width=50%><img src="bend_neck_HP_WS.JPG" width=50%>
+<img src="../BIDMC/img/HP/HP_WS.jpg" width=50%><img src="bend_neck_HP_WS.JPG" width=50%>
 HP "WS"
 
 
 
 The notability here is the material, which has the same stiffness bendability as the previous version but has a smooth finish. It is autoclavable. The shaft is the preferred design. The breakpoint is a bit difficult to break but acceptable. The tip shown is acceptable but not preferred.
 
-<img src="../img/Carbon/C_6.jpg" width=50%><img src="../img/Carbon/C_7.jpg" width=50%>
+<img src="../BIDMC/img/Carbon/C_6.jpg" width=50%><img src="../BIDMC/img/Carbon/C_7.jpg" width=50%>
 Carbon "C-6" (left) and Carbon "C-7"
 
 The empty structure collects sufficient specimen. The central spine of the tip provides sufficient rigidity and flexibility. The longer tip provides similar or greater flexibility than the thin neck. The material is not autoclavable but does tolerate alcohol disinfection.

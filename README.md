@@ -8,7 +8,7 @@ The purpose is to **update medical professionals and manufacturers**.
 
 Note the location of the repo has changed.
 
-**For those with in-house 3D printing capacity,** USF has graciously made their STL file available.
+**For those with in-house 3D printing capacity,** USF has graciously made their STL file available (USF Roundnose 70 mm breakpoint v1.stl).
 
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 

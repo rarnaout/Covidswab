@@ -8,6 +8,8 @@ The purpose is to **update medical professionals and manufacturers**.
 
 Note the location of the repo has changed.
 
+**For those with in-house 3D printing capacity,** USF has graciously made their STL file available.
+
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 
 [Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army

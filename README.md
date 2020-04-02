@@ -37,4 +37,4 @@ The information and designs in this repository are being made available for rese
 
 ## Contact
 
-BIDMC: Ramy Arnaout, MD, DPhil rarnaout@bidmc.harvard.edu 617-538-5681
+BIDMC: Ramy Arnaout, MD, DPhil rarnaout at-sign bidmc dot harvard dot edu 617-538-5681

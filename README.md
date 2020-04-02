@@ -8,7 +8,7 @@ The purpose is to **update medical professionals and manufacturers**.
 
 Note the location of the repo has changed.
 
-**For those with in-house 3D printing capacity,** USF has graciously made their <a href="USF/USF Roundnose 70 mm breakpoint v1.stl">STL file available (USF Roundnose 70 mm breakpoint v1.stl)</a>.
+**For those with in-house 3D printing capacity, USF has graciously made their <a href="USF/USF Roundnose 70 mm breakpoint v1.stl">STL file available (USF Roundnose 70 mm breakpoint v1.stl)</a>.**
 
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 
@@ -37,4 +37,4 @@ The information and designs in this repository are being made available for rese
 
 ## Contact
 
-BIDMC: Ramy Arnaout, MD, DPhil rarnaout@bidmc.harvard.edu 617-538-5681
+BIDMC: Ramy Arnaout, MD, DPhil rarnaout at-sign bidmc dot harvard dot edu 617-538-5681

@@ -14,8 +14,6 @@ For those with in-house 3D printing capacity who are in the direst need, USF has
 
 [Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army
 
-For anyone interested, [BIDMC will be having a 5-minute phone-call update via Zoom at 3 p.m. ET.](BIDMC/invite.txt)
-
 **All readers** are reminded that swabs are an FDA Class 1 exempt medical device not suitable for "garage testing." ENT, ER, and ID personnel do not need more work removing foreign bodies from/repairing damage to/treating infections in nasal cavities.
 
 At this point **we discourage randomly printing/testing STL files**; instead please see results from testing sites above (esp. [USF](/USF), if you have your own printing capacity).

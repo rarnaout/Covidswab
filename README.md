@@ -8,7 +8,7 @@ The purpose is to **update medical professionals and manufacturers**.
 
 Note the location of the repo has changed.
 
-For those with in-house 3D printing capacity who are in the direst need, USF has graciously made an <a href="USF/USF Roundnose 70 mm breakpoint v1.stl">STL file available (USF Roundnose 70 mm breakpoint v1.stl)</a>. **However, <u>we strongly caution that NP swabs are a serious undertaking that can carry risk to patients if not carefully evaluated, by professionals, at multiple steps of development and use (e.g. design, materials)</u>, as institutions below have been doing. If you can work with a known manufacturer, you are strongly encouraged so instead of printing your own swabs.**
+For those with in-house 3D printing capacity who are in the direst need, USF has graciously made an <a href="USF/USF Roundnose 70 mm breakpoint v1.stl">STL file available (USF Roundnose 70 mm breakpoint v1.stl)</a>. **However, <u>we strongly caution that NP swabs are a serious undertaking that can carry risk to patients if not carefully evaluated, by professionals, at multiple steps of development and use (e.g. design, materials)</u>, as the groups below have been doing. If you can work with a known manufacturer, you are strongly encouraged so instead of printing your own swabs.**
 
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 

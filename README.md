@@ -8,11 +8,11 @@ The purpose is to **update medical professionals and manufacturers**.
 
 Note the location of the repo has changed.
 
-For those with in-house 3D printing capacity who are in the direst need, USF has graciously made an <a href="https://usf.box.com/s/wxmlj0r66vp8bzei6o7sur1kq1jr8o1i">STL file available, along with instructions that you should read first</a>. **However, <u>we strongly caution that NP swabs are a serious undertaking that can carry risk to patients if not carefully evaluated, by professionals, at multiple steps of development and use (e.g. design, materials)</u>, as the groups below have been doing. If you can work with a known manufacturer, you are strongly encouraged to do so instead of printing your own swabs.**
-
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 
-[Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army
+[Beth Israel Deaconess Medical Center (BIDMC) <i>Udated April 4</i>](BIDMC/) | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army
+
+For those with in-house 3D printing capacity who are in the direst need, USF has graciously made an <a href="https://usf.box.com/s/wxmlj0r66vp8bzei6o7sur1kq1jr8o1i">STL file available, along with instructions that you should read first</a>. **However, <u>we strongly caution that NP swabs are a serious undertaking that can carry risk to patients if not carefully evaluated, by professionals, at multiple steps of development and use (e.g. design, materials)</u>, as the groups listed here have been doing. If you can work with a known manufacturer, you are strongly encouraged to do so instead of printing your own swabs.**
 
 **All readers** are reminded that swabs are an FDA Class 1 exempt medical device not suitable for "garage testing." ENT, ER, and ID personnel do not need more work removing foreign bodies from/repairing damage to/treating infections in nasal cavities.
 

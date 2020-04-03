@@ -3,7 +3,7 @@
 
 # Results summary, BIDMC
 
-## Friday, April, 3, 2020
+## Friday, April 3, 2020
 
 This entry contains a summary of progress over the past week at BIDMC, one of the many groups that are working together to resolve the NP swab shortage. It will also try to address frequently-asked questions.
 

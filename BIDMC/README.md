@@ -326,6 +326,6 @@ I suggest as a first step other clinical sites model after USF's IRB and have th
 <a name="contact"></a>
 ## Contact
 
-Ramy Arnaout, MD, DPhil rarnaout@bidmc.harvard.edu 617-538-5681 on behalf of the BIDMC team (not everyone is pictured):
+Ramy Arnaout, MD, DPhil rarnaout at-sign bidmc dot harvard dot edu 617-538-5681 on behalf of the BIDMC team (not everyone is pictured):
 
 <img src="bidmc_team_1.JPG" width=50%>

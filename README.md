@@ -1,4 +1,4 @@
-*Last updated: March 27, 2020 10:00 ET*
+*Last updated: April 3, 2020 10:00 ET*
 
 # Manufacturing NP swabs
 
@@ -13,6 +13,8 @@ For those with in-house 3D printing capacity who are in the direst need, USF has
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 
 [Beth Israel Deaconess Medical Center (BIDMC)](BIDMC/) | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army
+
+For anyone interested, [BIDMC will be having a 5-minute phone-call update via Zoom at 3 p.m. ET.](BIDMC/invite)
 
 **All readers** are reminded that swabs are an FDA Class 1 exempt medical device not suitable for "garage testing." ENT, ER, and ID personnel do not need more work removing foreign bodies from/repairing damage to/treating infections in nasal cavities.
 

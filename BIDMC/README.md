@@ -8,12 +8,12 @@
 This entry contains a summary of progress over the past week at BIDMC, one of the many groups that are working together to resolve the NP swab shortage. It will also try to address frequently-asked questions.
 
 ### Contents
-- <a href="phase1">Phase I testing: expert evaluation, collection sufficiency, PCR compatibility</a>
-- <a href="phase2">Phase II testing: decontamination, packaging, volume</a>
-- <a href="phase3">Phase III testing: field trial (IRB)</a>
-- <a href="self">Self-printing</a>
-- <a href="process">Process update</a>
-- <a href="next">Next steps</a>
+- <a href="#phase1">Phase I testing: expert evaluation, collection sufficiency, PCR compatibility</a>
+- <a href="#phase2">Phase II testing: decontamination, packaging, volume</a>
+- <a href="#phase3">Phase III testing: field trial (IRB)</a>
+- <a href="#self">Self-printing</a>
+- <a href="#process">Process update</a>
+- <a href="#next">Next steps</a>
 
 <a name="phase1"></a>
 ### Phase I testing: expert evaluation, collection sufficiency, PCR compatibility

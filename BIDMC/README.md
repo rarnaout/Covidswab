@@ -22,7 +22,7 @@ Earlier this week we completed <a href="../BIDMC/np_swab_results.xlsx">Phase I t
 
 This phase consists of three steps: (i) expert evaluation, (ii) collection sufficiency (using Gram stain of cheek swab as a proxy for the nasopharynx), (iii) compatibility with our Covid-19 PCR test (we are currently using the Abbott system).
 
-At this point we have completed many (>5-10) iterations of prototypes with several manufacturers, at each step offering feedback and guidance, working with their engineers, and they have been unbelievably responsive and ingenious in working with us.
+At this point we have completed many (>5-10) iterations of prototypes with several manufacturers, at each step offering design feedback and guidance, working with their engineers, and they have been unbelievably responsive and ingenious in working with us.
 
 
 <a name="phase2"></a>

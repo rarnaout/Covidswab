@@ -1,4 +1,4 @@
-*Last modified: Friday, April 3, 2020*
+*Last modified: Saturday, April 4, 2020*
 
 
 # Results summary, BIDMC
@@ -34,9 +34,11 @@ These two phases resulted in our selection of four prototypes at present---from 
 
 #### How to interpret our selections
 
-To minimize the risk of the kind of supply-chain difficulties that started this crisis, and recognizing that design is difficult and there may be several solutions that work for us, it has been important to us to test different technologies and materials, and this has been a consideration in our selections.
+We have chosen the prototypes that, per our Phase I and II evaluation above, performed best.
 
-Like everyone, we are constrained by bandwidth and the urgency of this crisis. While we are pleased with the prototypes we are testing, others are free to reach their own conclusions, and specific requirements may differ by setting.
+We have chosen prototypes produced via different technologies and materials to maximize our probability of finding solutions and minimize the probability that unforeseen issues results in a future supply bottleneck (such as the one that led to this crisis). We are fortunate that our Covid and respiratory pathogen testing bandwidth at BIDMC allows for testing at scale.
+
+The prototypes we have chosen reflect our best judgment. The Phase I data is collected and freely available to others in this directory. We recognize that others are free to reach their own conclusions and that specific requirements may differ by setting.
 
 #### Additional prototypes
 
@@ -52,7 +54,7 @@ As mentioned above, today we began field testing under an IRB. Briefly we are co
 <a name="self"></a>
 ### Self-printing
 
-We have received many inquiries regarding self-printing. We understand there are sites with on-site 3D printing capacity but effectively no swabs for whom this is a particularly urgent issue. While **we strongly encourage waiting to purchase from a manufacturer if at all possible**, we point those in this urgent situation to the work of Summer Decker at USF and of FormLabs, who have <a href="https://usf.box.com/s/wxmlj0r66vp8bzei6o7sur1kq1jr8o1i">graciously made available an STL file and a readme</a>. **Please read the  disclaimers on this repo's main page, and USF's readme, carefully.**
+We have received many inquiries regarding self-printing. We understand there are sites with on-site 3D printing capacity but effectively no swabs for whom this is a particularly urgent issue. While **we strongly encourage waiting to purchase from a manufacturer if at all possible**, we point those in this urgent situation to the work of Summer Decker at USF and of FormLabs, who have <a href="https://usf.box.com/s/wxmlj0r66vp8bzei6o7sur1kq1jr8o1i">graciously made available an STL file and a readme</a>. This statement should not be read as an endorsement: the FormLabs solution was not selected for Phase III testing at BIDMC. Our Phase I evaluation of the material for this solution, as for all others we tested, is in the Excel spreadsheet. Again, others are free to reach their own conclusions. **Please read the  disclaimers on this repo's main page, and USF's readme, carefully.**
 
 
 <a name="process"></a>

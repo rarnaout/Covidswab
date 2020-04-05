@@ -1,7 +1,75 @@
-*Last modified: Friday, March 27, 2020*
+*Last modified: Saturday, April 4, 2020*
 
 
 # Results summary, BIDMC
+
+## Friday, April 3, 2020
+
+This entry contains a summary of progress over the past week at BIDMC, one of the many groups that are working together to resolve the NP swab shortage. It will also try to address frequently-asked questions.
+
+### Contents
+- <a href="#phase1">Phase I testing: expert evaluation, collection sufficiency, PCR compatibility</a>
+- <a href="#phase2">Phase II testing: decontamination, packaging, volume</a>
+- <a href="#phase3">Phase III testing: field trial (IRB)</a>
+- <a href="#self">Self-printing</a>
+- <a href="#process">Process update</a>
+- <a href="#next">Next steps</a>
+
+<a name="phase1"></a>
+### Phase I testing: expert evaluation, collection sufficiency, PCR compatibility
+
+Earlier this week we completed <a href="../BIDMC/np_swab_results.xlsx">Phase I testing</a> of over 140 materials and prototypes from approximately two dozen manufacturers and other groups.
+
+This phase consists of three steps: (i) expert evaluation, (ii) collection sufficiency (using Gram stain of cheek swab as a proxy for the nasopharynx), (iii) compatibility with our Covid-19 PCR test (we are currently using the Abbott system).
+
+At this point we have completed many (>5-10) iterations of prototypes with several manufacturers, at each step offering design feedback and guidance, working with their engineers, and they have been unbelievably responsive and ingenious in working with us.
+
+
+<a name="phase2"></a>
+### Phase II testing: decontamination, packaging, volume
+
+As we have moved past Phase I, we considered the ability to decontaminate, with a preference for autoclaving; the ability to package singly, and to produce swabs at high volume---hundreds of thousands of units per day or more---and for low cost. This evaluation was done again through many interations with manufacturers.
+
+These two phases resulted in our selection of four prototypes at present---from Carbon3D, EnvisionTEC, Hewlett Packard, and Origin 3D Manufacturing---for Phase III testing, a field trial under IRB (below).
+
+#### How to interpret our selections
+
+We have chosen the prototypes that, per our Phase I and II evaluation above, performed best.
+
+We have chosen prototypes produced via different technologies and materials to maximize our probability of finding solutions and minimize the probability that unforeseen issues results in a future supply bottleneck (such as the one that led to this crisis). We are fortunate that our Covid and respiratory pathogen testing bandwidth at BIDMC allows for testing at scale.
+
+The prototypes we have chosen reflect our best judgment. The Phase I data is collected and freely available to others in this directory. We recognize that others are free to reach their own conclusions and that specific requirements may differ by setting.
+
+#### Additional prototypes
+
+We announced that we would be testing everything received before 5 p.m. Eastern this past Monday, March 2. Mainly for bandwidth reasons we are discouraging new submissions at BIDMC. Other sites may still be accepting. We will try to facilitate connecting manufacturers with additional testing sites if we are asked.
+
+
+<a name="phase3"></a>
+### Phase III testing: field trial (IRB)
+
+As mentioned above, today we began field testing under an IRB. Briefly we are collecting 10 positives and 10 negatives for control swabs and each prototype and testing concordance. We will make details available in this folder as soon as we can. We may add additional prototypes in the future. We will report results in collaboration with the manufacturers.
+
+
+<a name="self"></a>
+### Self-printing
+
+We have received many inquiries regarding self-printing. We understand there are sites with on-site 3D printing capacity but effectively no swabs for whom this is a particularly urgent issue. While **we strongly encourage waiting to purchase from a manufacturer if at all possible**, we point those in this urgent situation to the work of Dr. Summer Decker at USF and of FormLabs, who have <a href="https://usf.box.com/s/wxmlj0r66vp8bzei6o7sur1kq1jr8o1i">made available an STL file and a readme</a>. This statement should not be read as an endorsement: the FormLabs solution was not selected for Phase III testing at BIDMC. Our Phase I evaluation of the material for this solution, as for all others we tested, is in the Excel spreadsheet. Again, others are free to reach their own conclusions. **Please read the  disclaimers on this repo's main page, and USF's readme, carefully.**
+
+
+<a name="process"></a>
+### Process update
+
+As we move toward what we anticipate will be a successful resolution to this crisis, we understand that competition for credit and contracts will intensify. This is natural. However, **we believe the fastest solution is to remain as collaborative as possible. We encourage manufacturers, and also testing sites, to share as much as they can**. This includes materials testing, protocols, IRBs, and results. 
+
+We can give you a folder and write access to post to the repo, for those who want but do not have it. Meanwhile, please make clear what you do not want shared.
+
+<a name="next"></a>
+### Next steps
+
+We anticipate results of our field trial soon, which we hope to share here and on a 5-minute call.
+
+
 
 ## Friday, March 27, 2020
 
@@ -260,6 +328,6 @@ I suggest as a first step other clinical sites model after USF's IRB and have th
 <a name="contact"></a>
 ## Contact
 
-Ramy Arnaout, MD, DPhil rarnaout@bidmc.harvard.edu 617-538-5681 on behalf of the BIDMC team (not everyone is pictured):
+Ramy Arnaout, MD, DPhil rarnaout at-sign bidmc dot harvard dot edu 617-538-5681 on behalf of the BIDMC team (not everyone is pictured):
 
 <img src="bidmc_team_1.JPG" width=50%>

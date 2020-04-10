@@ -60,7 +60,7 @@ We have received many inquiries regarding self-printing. We understand there are
 <a name="process"></a>
 ### Process update
 
-As we move toward what we anticipate will be a successful resolution to this crisis, we understand that competition for credit and contracts will intensify. This is natural. However, **we believe the fastest solution is to remain as collaborative as possible. We encourage manufacturers, and also testing sites, to share as much as they can**. This includes materials testing, protocols, IRBs, and results. 
+As we move toward what we anticipate will be a successful resolution to this crisis, we understand that competition for credit and contracts will intensify. This is natural. However, **we believe the fastest solution is to remain as collaborative as possible. We encourage manufacturers, and also testing sites, to share as much as they can**. This includes materials testing, protocols, IRBs, and results.
 
 We can give you a folder and write access to post to the repo, for those who want but do not have it. Meanwhile, please make clear what you do not want shared.
 
@@ -238,7 +238,7 @@ Archetypal (Abiogenix design (?), HP print)
 <a name="stlfiles"></a>
 ### STL files
 
-We do not have all stl files for all designs tested; what we have are [here](/Covidswab/design_files/). If you need one we don't have, please contact its [creator]("np_swab_results.xlsx"). If you have an stl file to share, please email it to ccallah@bidmc.harvard.edu with *STL-FILE_\<identifier>_\<company>* in the subject field.
+We do not have all stl files for all designs tested; what we have are [here](/Covidswab/design_files/). If you need one we don't have, please contact its [creator]("np_swab_results.xlsx"). If you have an stl file to share, please email it to ccallah4@bidmc.harvard.edu with *STL-FILE_\<identifier>_\<company>* in the subject field.
 
 
 
@@ -323,6 +323,10 @@ I suggest as a first step other clinical sites model after USF's IRB and have th
 
 **Market.** Several tip/shaft/material combinations will likely yield usable products. There will be a competitive market. A/B testing, marketing, contracting, etc. are beyond the scope of this document.
 
+## Injection molding: 
+For those looking to have injection molded swabs evaluated we encourage you to look through the results of our assessments. <a href="/BIDMC/np_swab_results.xlsx">Here</a>, we offer design feedback and the results of PCR compatibility. In general, effective tip designs have high surface area and are designed not to be abrasive for patients. For material choice, swab rigidness should be comparable to the plastic inkwell of a pen.
+
+In addition, for those looking to reach out, please include information on your ramp up time and daily unit production.
 
 
 <a name="contact"></a>

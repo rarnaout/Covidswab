@@ -13,7 +13,7 @@ Test swabs were examined by two infectious disease physicians. Samples were comp
 3: The swab neck was evaluated based on the degree of flexibility and on the presumed efficacy of insertion into the posterior nasopharynx.
 
 4: Placement and efficacy of break points for placement into vial. Upon consultation, swabs were scored on a pass-fail system based on their over performance.
-Test swabs were scored on a pass-fail system, with comments recorded <a href="../BIDMC/np_swab_results.xlsx">here</a>.
+Test swabs were scored on a pass-fail system, with comments recorded <a href="/BIDMC/np_swab_results.xlsx">here</a>.
 
 
 ### Gram Stain:

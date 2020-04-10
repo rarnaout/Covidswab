@@ -29,7 +29,7 @@ SHAFTS
    2) plastic rod
 3) thin pipettes (Rima)
 
-<img src="../img/microbiology-loop.png" width=40%>
+<img src="/BIDMC/img/microbiology_loop.png" width=40%>
 
 BRISTLE W/O ADHESIVES
 --------------------------------------
@@ -38,7 +38,7 @@ BRISTLE W/O ADHESIVES
 3) chemical etching to roughen edges
 4) reheating plastic locally and forcing into a mold (need to watch out for brittleness)
 5) molding/3D printing shape
- 
+
 BRISTLE W/ ADHESIVES
 -----------------------------------
 1) flocking

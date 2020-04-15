@@ -9,7 +9,7 @@ This entry contains a short summary of progress over the past 10 days at BIDMC, 
 
 ### Contents
 - <a href="#field_trial">Field trial results</a>
-- <a href="#irb">IRB</a>
+- <a href="#irb">BIDMC IRB materials for reuse</a>
 - <a href="#process_041520">Process update</a>
 
 <a name="field_trial"></a>
@@ -23,16 +23,16 @@ Specifically, the goal was to collect a prototype as well as a control NP swab o
 
 To date prototypes from three manufacturers have completed the trial, with others at various stages. The three are from Carbon3D, EnvisionTec, and Origin.io. (Note we have not tested FormLabs.) These all exhibited a high degree of concordance with the controls. Analysis of Ct values showed no statistical evidence of bias, although the numbers are small. Participants tolerated the prototypes to varying degrees.
 
-We have written up the results and posted them to medRxiv so everyone can see details.
+We have written up the results and posted them to medRxiv so everyone can see details; unfortunately it is taking a bit longer to get a link from them than we wished but we will post it here.
 
 Manufacturers are continuing to iterate on their designs.
 
 The trial is ongoing.
 
 <a name="#irb"></a>
-### IRB
+### BIDMC IRB materials for reuse
 
-To help others who want to run a trial, we have made relevant sections from our IRB available here.
+To help others who want to run a trial, we have made <a href="BIDMC_IRB_key_info.pdf">relevant sections from our IRB available</a>. If you use them, please cite Callahan et al., medRxiv 2020 (link pending).
 
 <a name="#process_041520"></a>
 ### Process update

@@ -21,7 +21,7 @@ The main goal of the trial was to measure concordance between each prototype and
 
 Specifically, the goal was to collect a prototype as well as a control NP swab on each participant until we had 10 SARS-CoV-2-positive and SARS-CoV-2-negative controls. These were all tested on our in-house Abbott m2000s.
 
-To date prototypes from three manufacturers have completed the trial, with others at various stages. The three are from Carbon3D, EnvisionTec, and Origin.io. (Note we have not tested FormLabs.) These all exhibited a high degree of concordance with the controls. Analysis of Ct values showed no statistical evidence of bias, although the numbers are small. Participants tolerated the prototypes to varying degrees.
+To date prototypes from three manufacturers have completed the trial, with others at various stages. The three are from Resolution Medical (crafted with Carbon3D technology), EnvisionTec, and Origin.io. (Note we have not tested FormLabs.) These all exhibited a high degree of concordance with the controls. Analysis of Ct values showed no statistical evidence of bias, although the numbers are small. Participants tolerated the prototypes to varying degrees.
 
 We have written up the results and posted them to medRxiv so everyone can see details; unfortunately it is taking a bit longer to get a link from them than we wished but we will post it here.
 

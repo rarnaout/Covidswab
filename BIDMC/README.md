@@ -1,7 +1,48 @@
-*Last modified: Saturday, April 4, 2020*
+*Last modified: Wednesday, April 15, 2020*
 
 
 # Results summary, BIDMC
+
+## Wednesday, April 15, 2020
+
+This entry contains a short summary of progress over the past 10 days at BIDMC, one of the many groups that are working together to resolve the NP swab shortage. It will also try to address frequently-asked questions.
+
+### Contents
+- <a href="#field_trial">Field trial results</a>
+- <a href="#irb">IRB</a>
+- <a href="#process_041520">Process update</a>
+
+<a name="field_trial"></a>
+### Field trial results
+
+About two weeks ago we began an IRB-approved field trial of select prototypes that had passed our initial phases of testing. (Please see prior updates for details of those phases.)
+
+The main goal of the trial was to measure concordance between each prototype and a control, for which we used Copan model 501CS01, one of the FDA's approved standard (flocked) NP swabs. Participants were drawn from the pool of people clinically suspected of COVID-19 who were given appointments at BIDMC's drive-through testing facility. 
+
+Specifically, the goal was to collect a prototype as well as a control NP swab on each participant until we had 10 SARS-CoV-2-positive and SARS-CoV-2-negative controls. These were all tested on our in-house Abbott m2000s.
+
+To date prototypes from three manufacturers have completed the trial, with others at various stages. The three are from Carbon3D, EnvisionTec, and Origin.io. (Note we have not tested FormLabs.) These all exhibited a high degree of concordance with the controls. Analysis of Ct values showed no statistical evidence of bias, although the numbers are small. Participants tolerated the prototypes to varying degrees.
+
+We have written up the results and posted them to medRxiv so everyone can see details.
+
+Manufacturers are continuing to iterate on their designs.
+
+The trial is ongoing.
+
+<a name="#irb"></a>
+### IRB
+
+To help others who want to run a trial, we have made relevant sections from our IRB available here.
+
+<a name="#process_041520"></a>
+### Process update
+
+Manufacturers have launched a <a href="https://printedswabs.org/">site for connecting hospitals with manufacturers</a>. To our knowledge, not all manufacturers appear there. Appearing on that site does not count as an endorsement from BIDMC.
+
+We continue to receive many inquiries. If you are a manufacturer interested in our testing your swabs, the best thing is to send a high-resolution image and, if you can (to cut down on lead time, but unfortunately not as a guarantee we will test), send a complete description (including manufacturer; sender; manufacturing technique; detailed measurements of head, neck, breakpoint, and shaft; production volume now, in one week, and in one month), to CLS624 c/o Cody Callahan, 3 Blackfan Circle, Boston, MA 02215.
+
+Regarding phone and email inquiries: we are happy to help as we can but please do read all the information here and below before sending an email or placing a call, as  your questions may already be answered.
+
 
 ## Friday, April 3, 2020
 

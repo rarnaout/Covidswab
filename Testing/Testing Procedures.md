@@ -48,7 +48,7 @@ Indoor hospital can have the swabs at room temperature.
 
 6) rotational test - turn until failure (this is to simulate the tip getting stuck/caught while the swab is being rotated in the nasopharynx) 
    - fix distal end of swab (absorbent side)
-   - apply rotation (torque) to proximal end (hand side)
+   - apply rotation (torque) to distal end (hand side)
    - measure torque-theta profile
    - measure number of rotations until failure/breakage
    - measure point of failure 
@@ -57,14 +57,14 @@ Indoor hospital can have the swabs at room temperature.
 7) rotation test in curved tube (to simulate turning of the swab in the nasopharynx after being bent)
    - use a bent piece of tubing (like surgical tubing, but fixed in shape (3d print one?)
    - insert distal end of swab into tube up to breakpoint
-   - apply rotation (torque) to proximal end of (hand side)
+   - apply rotation (torque) to distal end of (hand side)
    - measure torque-theat profile over the course of multiple turns
    - note maximum torque
 
 8) tip abrasion 
    - measure dry weight of swab
    - place distal end of swab (absorbent end) next to simulated tissue (todo: spec pressure and material (e.g. moist chicken?)
-   - apply rotation to proximal end (hand side) at hand twirling speed (60 RPM?) for 10 seconds
+   - apply rotation to distal end (hand side) at hand twirling speed (60 RPM?) for 10 seconds
    - remove swab and wash and dry
    - measure new dry weiht of swab
    - note difference in swab weights (to measure wheter / how much tip has abraided)

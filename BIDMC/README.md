@@ -5,7 +5,7 @@
 
 ## Friday, April 17, 2020
 
-**A brief note: we have received very many requests for our results regarding FormLabs' prototypes. You can find it in <a href="np_swab_results.xlsx">this Excel spreadsheet</a>. None of the prototypes we received from FormLabs passed our Phase I testing. We deemed them too brittle. Therefore none entered our clinical trial.**
+**A brief note: we have received very many requests for our results regarding FormLabs' prototypes. You can find them in <a href="np_swab_results.xlsx">this Excel spreadsheet</a>. None of the prototypes we received from FormLabs passed our Phase I testing. We deemed them too brittle. Therefore none entered our clinical trial.**
 
 
 ## Wednesday, April 15, 2020

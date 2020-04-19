@@ -1,11 +1,16 @@
-*Last modified: Wednesday, April 17, 2020*
+*Last modified: Sunday, April 19, 2020*
 
 
 # Results summary, BIDMC
 
+## Sunday, April 19, 2020
+
+<a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20065094v1">The first results of our field trial are now on medRxiv</a>. (Note apparently medRxiv has been having issues.) In addition to what's in the preprint, a prototype from HP, Inc. has also passed our trial. We will be updating medRxiv as we can.
+
+
 ## Friday, April 17, 2020
 
-**A brief note: we have received very many requests for our results regarding FormLabs' prototypes. You can find them in <a href="np_swab_results.xlsx">this Excel spreadsheet</a>. None of the prototypes we received from FormLabs passed our Phase I testing. We deemed them too brittle. Therefore none entered our clinical trial.**
+**A brief note: we have received very many requests for our results regarding FormLabs' prototypes. You can find them in <a href="np_swab_results.xlsx">this Excel spreadsheet</a>. None of the prototypes we received from FormLabs passed our Phase I testing. We deemed them too brittle. Therefore none entered our clinical trial. If you have questions about clinical evaluation of FormLabs, please contact USF/Northwell, as they are the ones with the most experience with these swabs and can advise.**
 
 
 ## Wednesday, April 15, 2020

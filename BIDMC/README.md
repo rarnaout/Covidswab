@@ -12,6 +12,8 @@ The participant information sheet we used is <a href="BIDMC_participant_informat
 
 The raw data for Fig. 2 is <a href="fig2_data.txt">here</a>.
 
+Contact information for manufacturers is <a href="https://printedswabs.org">here</a>.
+
 **We continue to make our work freely available to help everyone address the crisis. If you use any of the work here, please do cite the repo and the prprint, Callahan et al. medRxiv 2020.**
 
 

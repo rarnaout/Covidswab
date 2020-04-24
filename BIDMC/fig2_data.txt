@@ -1,5 +1,7 @@
+Comments
+--If you use or refer to this data in any way, please cite Callahan et al. medRxiv 2020
 --31.50 is the reportable cutoff (<1 viral copy/mL)
---37 is the replacement value for missing data (discordancies), the max cycles performed.
+--37 is the replacement value for missing data (discordancies), the max cycles performed
 --Prototype 4 is in the updated preprint (takes time to update online) 
 
 Prototype 1

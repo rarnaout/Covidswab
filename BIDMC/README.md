@@ -8,7 +8,11 @@
 
 <a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20065094v1">The first results of our field trial are now on medRxiv</a>. (Note apparently medRxiv has been having issues.) In addition to what's in the preprint, a prototype from HP, Inc. has also passed our trial. We will be updating medRxiv as we can. 
 
+The participant information sheet we used is <a href="BIDMC_participant_information_sheet.pdf">here</a>. **Remember, approval of such a document requires approval of Your IRB.**
+
 The raw data for Fig. 2 is <a href="fig2_data.txt">here</a>.
+
+**We continue to make our work freely available to help everyone address the crisis. If you use any of the work here, please do cite the repo and the prprint, Callahan et al. medRxiv 2020.**
 
 
 ## Friday, April 17, 2020

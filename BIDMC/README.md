@@ -51,7 +51,7 @@ The trial is ongoing.
 <a name="#irb"></a>
 ### BIDMC IRB materials for reuse
 
-To help others who want to run a trial, we have made <a href="BIDMC_IRB_key_info.pdf">relevant sections from our IRB available</a>. If you use them, please cite Callahan et al., medRxiv 2020 (link pending).
+To help others who want to run a trial, we have made <a href="BIDMC_IRB_key_info.pdf">relevant sections from our IRB available</a>, including <a href="BIDMC_participant_information_sheet.pdf">participant information sheet</a>. If you use them, please cite Callahan et al., medRxiv 2020 (link pending).
 
 <a name="#process_041520"></a>
 ### Process update

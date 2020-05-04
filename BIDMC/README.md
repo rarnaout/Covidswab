@@ -1,7 +1,11 @@
-*Last modified: Friday, April 24, 2020*
+*Last modified: Monday, May 4, 2020*
 
 
 # Results summary, BIDMC
+
+## Monday, May 4, 2020
+
+**Regarding viral transport media,** colleagues here at BIDMC have posted a preprint describing the <a href="https://www.medrxiv.org/content/10.1101/2020.04.29.20085514v1">large-scale, in-house production of viral transport media to support SARS-CoV-2 PCR testing in a multi-hospital healthcare network during the COVID-19 pandemic</a>. If you need to produce your own media, please see this manuscript.
 
 
 ## Sunday, April 19, 2020--updated Friday, April 24, 2020

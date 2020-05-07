@@ -1,4 +1,4 @@
-*Last updated: May 4, 2020*
+*Last updated: May 7, 2020*
 
 # Manufacturing NP swabs
 
@@ -10,7 +10,7 @@ Note the location of the repo has changed.
 
 **Several groups have been testing** various materials and geometries using various protocols. Details:
 
-[Beth Israel Deaconess Medical Center (BIDMC) <i>**Udated May 4**</i>](BIDMC/) | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army
+[Beth Israel Deaconess Medical Center (BIDMC) <i>**Udated May 7**</i>](BIDMC/) | [University of Southern Florida (USF)](USF/) | [University of Washington (UW)](UW/) | [Stanford University](Stanford/) | United States Army
 
 For those with in-house 3D printing capacity who are in the direst need, USF has graciously made an <a href="https://usf.box.com/s/wxmlj0r66vp8bzei6o7sur1kq1jr8o1i">STL file available, along with instructions that you should read first</a>. **However, <u>we strongly caution that NP swabs are a serious undertaking that can carry risk to patients if not carefully evaluated, by professionals, at multiple steps of development and use (e.g. design, materials)</u>, as the groups listed here have been doing. If you can work with a known manufacturer, you are strongly encouraged to do so instead of printing your own swabs.**
 

@@ -1,7 +1,13 @@
-*Last modified: Monday, May 4, 2020*
+*Last modified: Thursday, May 7, 2020*
 
 
 # Results summary, BIDMC
+
+
+## Thursday, May 7, 2020
+
+The <a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20065094v2">second version</a> of our preprint is now up on medRxiv, including results from HP, Inc (Abiogenix/Fathom).
+
 
 ## Monday, May 4, 2020
 

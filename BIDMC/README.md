@@ -3,6 +3,11 @@
 
 # Results summary, BIDMC
 
+## Wednesday, May 13, 2020
+
+Our work, detailing NP swab development and clinical validation, has now been peer reviewed and published by the <a href="https://jcm.asm.org/content/early/2020/05/11/JCM.00876-20"> Journal of Clinical Microbiology</a>.
+
+Clinically validated swabs are now available to <a href="https://printedswabs.org/"> order</a>
 
 ## Thursday, May 7, 2020
 
@@ -16,7 +21,7 @@ The <a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20065094v2">seco
 
 ## Sunday, April 19, 2020--updated Friday, April 24, 2020
 
-<a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20065094v1">The first results of our field trial are now on medRxiv</a>. (Note apparently medRxiv has been having issues.) In addition to what's in the preprint, a prototype from HP, Inc. has also passed our trial. We will be updating medRxiv as we can. 
+<a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20065094v1">The first results of our field trial are now on medRxiv</a>. (Note apparently medRxiv has been having issues.) In addition to what's in the preprint, a prototype from HP, Inc. has also passed our trial. We will be updating medRxiv as we can.
 
 The participant information sheet we used is <a href="BIDMC_participant_information_sheet.pdf">here</a>. **Remember, approval of such a document requires approval of Your IRB.**
 
@@ -46,7 +51,7 @@ This entry contains a short summary of progress over the past 10 days at BIDMC, 
 
 About two weeks ago we began an IRB-approved field trial of select prototypes that had passed our initial phases of testing. (Please see prior updates for details of those phases.)
 
-The main goal of the trial was to measure concordance between each prototype and a control, for which we used Copan model 501CS01, one of the FDA's approved standard (flocked) NP swabs. Participants were drawn from the pool of people clinically suspected of COVID-19 who were given appointments at BIDMC's drive-through testing facility. 
+The main goal of the trial was to measure concordance between each prototype and a control, for which we used Copan model 501CS01, one of the FDA's approved standard (flocked) NP swabs. Participants were drawn from the pool of people clinically suspected of COVID-19 who were given appointments at BIDMC's drive-through testing facility.
 
 Specifically, the goal was to collect a prototype as well as a control NP swab on each participant until we had 10 SARS-CoV-2-positive and SARS-CoV-2-negative controls. These were all tested on our in-house Abbott m2000s.
 
@@ -393,7 +398,7 @@ I suggest as a first step other clinical sites model after USF's IRB and have th
 
 **Market.** Several tip/shaft/material combinations will likely yield usable products. There will be a competitive market. A/B testing, marketing, contracting, etc. are beyond the scope of this document.
 
-## Injection molding: 
+## Injection molding:
 For those looking to have injection molded swabs evaluated we encourage you to look through the results of our assessments. <a href="/BIDMC/np_swab_results.xlsx">Here</a>, we offer design feedback and the results of PCR compatibility. In general, effective tip designs have high surface area and are designed not to be abrasive for patients. For material choice, swab rigidness should be comparable to the plastic inkwell of a pen.
 
 In addition, for those looking to reach out, please include information on your ramp up time and daily unit production.
